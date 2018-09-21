@@ -1,0 +1,31 @@
+_repo: Trip-to-the-West-and-Texas-comprising-a-journey-of-eight-thousand-miles-through-New-York-Mich__53648
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Parker, A. A. (Amos Andrew)
+    alias: Parker, Amos Andrew
+    birthdate: 1791
+    deathdate: 1893
+    gutenberg_agent_id: '47477'
+    url: http://www.gutenberg.org/2009/agents/47477
+description: ''
+gutenberg_issued: '2016-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53648'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Texas -- Description and travel'
+- !lcc 'F350.5'
+- !lcsh 'Frontier and pioneer life -- Mississippi River Valley'
+- !lcsh 'Mississippi River Valley -- Description and travel'
+- !lcsh 'Frontier and pioneer life -- Texas'
+- !lcsh 'Texas -- History -- Revolution, 1835-1836'
+- GITenberg
+title: "Trip to the West and Texas\r\ncomprising a journey of eight thousand miles,\
+  \ through New-York, Michigan, Illinois, Missouri, Louisiana and Texas, in the autumn\
+  \ and winter of 1834-5."
+url: http://www.gutenberg.org/ebooks/53648
